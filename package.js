@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'milligram:milligram',
-  version: '1.4.1',
-  summary: 'A minimalist CSS framework.',
-  git: 'https://github.com/milligram/milligram.git',
+  name: 'futuredemand:milligram',
+  version: '0.0.1',
+  summary: 'A fork of Milligram, A minimalist CSS framework.',
+  git: 'https://github.com/karimit/milligram.git',
   documentation: 'readme.md',
 })
 
